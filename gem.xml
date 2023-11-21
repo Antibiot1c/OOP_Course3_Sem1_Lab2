@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gem>
+    <Name>Diamond</Name>
+    <Preciousness>Precious</Preciousness>
+    <Origin>Africa</Origin>
+    <VisualParameters>
+        <Color>Colorless</Color>
+        <Transparency>90.5</Transparency>
+        <Facets>8</Facets>
+    </VisualParameters>
+    <Value>2.5</Value>
+</Gem>
